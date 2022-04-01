@@ -18,7 +18,7 @@ pip install basic_operations
 ## Usage
 
 ```python
-from operation import addition, subtraction, multiplication, division
+from basic_operations import operation
 operation.addition(x,y)
 operation.subtraction(x,y)
 operation.multiplication(x,y)
